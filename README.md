@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Luuk, I study physics at the TU Delft in the Netherlands.
 <!--
 **LCUnger/LCUnger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
